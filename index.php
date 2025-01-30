@@ -28,9 +28,9 @@
 	
 	//creation fichier auteur
 	$nom ="kohler"; $prenom ="maxime";
-	$nom2 ="OYANE"; $prenom2 ="Sarah";
-	$auteur = fopen("author.txt", "a");
-	fputs($auteur, "$nom $prenom\n $nom2 $prenom2/n");
+	$nom2 ="oyane"; $prenom2 ="sarah";
+	$auteur = fopen("author.txt", "w");
+	fputs($auteur, "$nom $prenom\n$nom2 $prenom2\n");
 	fclose($auteur);
 
 ?>
