@@ -1,1 +1,2 @@
 nom;prenom;mail@mail2;azert;azert;25;Homme;num de rue;ville;zip;Angolan;Angola;programmation,peinture,judo;
+azer;aze;mail@mail;aze;aze;35;Homme;5srg;dsf;dsf;Bolivian;Afghanistan;echec,rugby,manga;
